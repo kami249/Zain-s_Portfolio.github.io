@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Abyssinica+SIL&family=Alkalami&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abyssinica+SIL&family=Alkalami&family=Noto+Sans:wght@200&display=swap');
 
 * {
     font-family: sans-serif;
@@ -10,8 +10,7 @@
     overflow-x: hidden;
     text-decoration: none;
     transition: .2s linear;
-    font-family: 'Abyssinica SIL', serif;
-    font-family: 'Alkalami', serif;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 html::-webkit-scrollbar {
